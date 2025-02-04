@@ -27,4 +27,7 @@ High-level interface for statistical data visualization.
 #### 4.Matplotlib: 
 Basic plotting and visualization tools for exploratory analysis.
 
+### Summary:
+* Comprehensive Statistical Analysis of Household Financial Data with Risk-Adjusted Investment Evaluation
+- This project incorporates a blend of exploratory data analysis (EDA) on household financial datasets, utilizing statistical measures (mean, median, IQR, standard deviation) to gain insights into income and expenditure patterns. Visualizations were used to illustrate key variables such as the number of earning members and qualifications within households. The analysis also compares two investment options using the coefficient of variation, ultimately concluding that Stock B offers a better risk-return profile when adjusted for volatility.
 
