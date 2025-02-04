@@ -18,13 +18,9 @@ This project analyzes a dataset of household income and expenditure data to deri
 * Decision-making based on statistical comparisons of investment alternatives.
 
 ### Libraries:
-1.Pandas: 
-* Data manipulation and statistical calculations.
-2.NumPy:
-* Efficient computation of statistical values and numerical operations.
-3.Seaborn:
-* High-level interface for statistical data visualization.
-4.Matplotlib:
-* Basic plotting and visualization tools for exploratory analysis.
+1.Pandas: Data manipulation and statistical calculations.
+2.NumPy: Efficient computation of statistical values and numerical operations.
+3.Seaborn: High-level interface for statistical data visualization.
+4.Matplotlib: Basic plotting and visualization tools for exploratory analysis.
 
 
